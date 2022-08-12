@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/pagesapitest/static/js/main.0de87835.js",
+    "index.html": "/pagesapitest/index.html",
+    "main.0de87835.js.map": "/pagesapitest/static/js/main.0de87835.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0de87835.js"
+  ]
+}
