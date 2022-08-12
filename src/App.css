@@ -1,0 +1,32 @@
+@font-face {
+  font-family: HelveticaNeueLight;
+  src: url(Helvetica-Neue-Light_22503.ttf);
+}
+
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #fec89a;
+  font-family: HelveticaNeueLight;
+}
+
+#root {
+  padding: 0;
+}
+
+.none {
+  display: none;
+}
+
+textarea {
+  font-family: HelveticaNeueLight;
+}
+
+input {
+  font-family: HelveticaNeueLight;
+}
+
+button {
+  font-family: HelveticaNeueLight;
+}
